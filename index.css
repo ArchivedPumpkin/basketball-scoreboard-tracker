@@ -25,12 +25,11 @@ h3 {
     flex-direction: column;
     justify-content: space-evenly;
     gap: 15px;
-    flex: 0 1 150px
 }
 
 .scoreBoard {
     background-color: black;
-    width: 100%;
+    width: 200px;
     height: 150px;
     color: red;
     display: flex;
@@ -59,6 +58,12 @@ h3 {
     width: 100%;
     font-family: retroFont;
     font-size: 18px;
+}
+
+@media screen and (max-width: 980px) {
+    .container {
+        flex-direction: column;
+    }
 }
 
 
