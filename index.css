@@ -71,8 +71,9 @@ h3 {
     }
 
     .scoreBoard {
-        width: 100%;
+        width: 520px;
         height: 300px;
+        font-size: 10px;
     }
 
     .btnContainer {
