@@ -67,13 +67,13 @@ h3 {
     }
 
     h3{
-        font-size: 7.5rem !important;
+        font-size: 8rem !important;
     }
 
     .scoreBoard {
-        width: 520px;
+        width: 530px;
         height: 300px;
-        font-size: 10px;
+        font-size: 10rem;
     }
 
     .btnContainer {
